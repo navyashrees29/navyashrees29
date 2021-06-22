@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\RiskSystemCalculation\RiskSystemCalculation\bin\Debug\RiskSystemCalculation.exe.config
+C:\Users\navyashrees\source\repos\RiskSystemCalculation\RiskSystemCalculation\bin\Debug\RiskSystemCalculation.exe
+C:\Users\navyashrees\source\repos\RiskSystemCalculation\RiskSystemCalculation\bin\Debug\RiskSystemCalculation.pdb
+C:\Users\navyashrees\source\repos\RiskSystemCalculation\RiskSystemCalculation\obj\Debug\RiskSystemCalculation.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\RiskSystemCalculation\RiskSystemCalculation\obj\Debug\RiskSystemCalculation.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\RiskSystemCalculation\RiskSystemCalculation\obj\Debug\RiskSystemCalculation.exe
+C:\Users\navyashrees\source\repos\RiskSystemCalculation\RiskSystemCalculation\obj\Debug\RiskSystemCalculation.pdb
