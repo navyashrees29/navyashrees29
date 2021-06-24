@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\healthStatus\healthStatus\bin\Debug\healthStatus.exe.config
+C:\Users\navyashrees\source\repos\healthStatus\healthStatus\bin\Debug\healthStatus.exe
+C:\Users\navyashrees\source\repos\healthStatus\healthStatus\bin\Debug\healthStatus.pdb
+C:\Users\navyashrees\source\repos\healthStatus\healthStatus\obj\Debug\healthStatus.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\healthStatus\healthStatus\obj\Debug\healthStatus.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\healthStatus\healthStatus\obj\Debug\healthStatus.exe
+C:\Users\navyashrees\source\repos\healthStatus\healthStatus\obj\Debug\healthStatus.pdb
