@@ -1,0 +1,8 @@
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\bin\Debug\ConsoleInputReaderLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\bin\Debug\ConsoleInputReaderLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.pdb

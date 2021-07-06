@@ -1,0 +1,6 @@
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculateLib\bin\Debug\BMICalculateLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculateLib\bin\Debug\BMICalculateLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculateLib\obj\Debug\BMICalculateLib.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculateLib\obj\Debug\BMICalculateLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculateLib\obj\Debug\BMICalculateLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculateLib\obj\Debug\BMICalculateLib.pdb

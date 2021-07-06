@@ -1,0 +1,5 @@
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMIValueValidateLib\bin\Debug\BMIValueValidateLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMIValueValidateLib\bin\Debug\BMIValueValidateLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMIValueValidateLib\obj\Debug\BMIValueValidateLib.pdb

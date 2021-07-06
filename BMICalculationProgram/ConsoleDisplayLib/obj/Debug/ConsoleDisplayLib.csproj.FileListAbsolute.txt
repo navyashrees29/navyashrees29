@@ -1,0 +1,5 @@
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleDisplayLib\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ConsoleDisplayLib\obj\Debug\ConsoleDisplayLib.pdb

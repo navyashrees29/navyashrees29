@@ -1,0 +1,15 @@
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\BMICalculationProgram.exe.config
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\BMICalculationProgram.exe
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\BMICalculationProgram.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\BMICalculateLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\BMIValueValidateLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\ConsoleInputReaderLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\BMICalculateLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\BMIValueValidateLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\ConsoleInputReaderLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\obj\Debug\BMICalculationProgram.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\obj\Debug\BMICalculationProgram.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\obj\Debug\BMICalculationProgram.exe
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\obj\Debug\BMICalculationProgram.pdb
