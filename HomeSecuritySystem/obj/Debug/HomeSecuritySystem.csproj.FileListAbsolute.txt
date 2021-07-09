@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\CSharpPrograms\HomeSecuritySystem\bin\Debug\HomeSecuritySystem.exe.config
+C:\Users\navyashrees\source\repos\CSharpPrograms\HomeSecuritySystem\bin\Debug\HomeSecuritySystem.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\HomeSecuritySystem\bin\Debug\HomeSecuritySystem.pdb
+C:\Users\navyashrees\source\repos\CSharpPrograms\HomeSecuritySystem\obj\Debug\HomeSecuritySystem.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\CSharpPrograms\HomeSecuritySystem\obj\Debug\HomeSecuritySystem.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\CSharpPrograms\HomeSecuritySystem\obj\Debug\HomeSecuritySystem.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\HomeSecuritySystem\obj\Debug\HomeSecuritySystem.pdb
