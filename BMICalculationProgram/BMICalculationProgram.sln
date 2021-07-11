@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIValueValidateLib", "BMIV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculateLib", "BMICalculateLib\BMICalculateLib.csproj", "{954524E5-65B6-412D-B10F-5D207A4F8215}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsLib", "ModelsLib\ModelsLib.csproj", "{6CD6DF13-E341-4B2C-BCAC-11C31BE8A93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientDataReaderLib", "PatientDataReaderLib\PatientDataReaderLib.csproj", "{367748F8-E4D7-44BF-99EE-208BF84FA41E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{954524E5-65B6-412D-B10F-5D207A4F8215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954524E5-65B6-412D-B10F-5D207A4F8215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954524E5-65B6-412D-B10F-5D207A4F8215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD6DF13-E341-4B2C-BCAC-11C31BE8A93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD6DF13-E341-4B2C-BCAC-11C31BE8A93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD6DF13-E341-4B2C-BCAC-11C31BE8A93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD6DF13-E341-4B2C-BCAC-11C31BE8A93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367748F8-E4D7-44BF-99EE-208BF84FA41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367748F8-E4D7-44BF-99EE-208BF84FA41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367748F8-E4D7-44BF-99EE-208BF84FA41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367748F8-E4D7-44BF-99EE-208BF84FA41E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

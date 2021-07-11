@@ -13,3 +13,7 @@ C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\ob
 C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\obj\Debug\BMICalculationProgram.csproj.CoreCompileInputs.cache
 C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\obj\Debug\BMICalculationProgram.exe
 C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\obj\Debug\BMICalculationProgram.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\ModelsLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\ModelsLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\PatientDataReaderLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\BMICalculationProgram\bin\Debug\PatientDataReaderLib.pdb

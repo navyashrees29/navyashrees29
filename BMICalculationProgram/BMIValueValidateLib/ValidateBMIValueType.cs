@@ -11,13 +11,13 @@ namespace BMIValueValidateLib
         public static string ValidateBMIValue(float bmiValue)
         {
             if (bmiValue < 18.5)
-                return bmiValue + "Underweight";
+                return "Underweight";
 
             else if (bmiValue >= 25)
-                return bmiValue + "Overweight";
+                return "Overweight";
 
             else
-                return bmiValue + "Healthy";
+                return "Healthy";
         }
     }
 }

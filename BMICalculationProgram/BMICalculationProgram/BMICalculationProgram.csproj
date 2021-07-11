@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckSwitchCondition.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -64,6 +65,14 @@
     <ProjectReference Include="..\ConsoleInputReaderLib\ConsoleInputReaderLib.csproj">
       <Project>{81f97e67-b617-4030-9705-0a2109d61ca6}</Project>
       <Name>ConsoleInputReaderLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModelsLib\ModelsLib.csproj">
+      <Project>{6cd6df13-e341-4b2c-bcac-11c31be8a93c}</Project>
+      <Name>ModelsLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PatientDataReaderLib\PatientDataReaderLib.csproj">
+      <Project>{367748f8-e4d7-44bf-99ee-208bf84fa41e}</Project>
+      <Name>PatientDataReaderLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

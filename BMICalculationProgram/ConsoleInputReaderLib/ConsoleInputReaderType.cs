@@ -8,19 +8,17 @@ namespace ConsoleInputReaderLib
 {
     public class ConsoleInputReaderType
     {
-        public static int GetUserHeight()
+        public static float GetUserHeight()
         {
             ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay("Enter your height in meter:");
-            string heightInMeter = Console.ReadLine();
-            int height = int.Parse(heightInMeter);
+            float height = float.Parse(Console.ReadLine());
             return height;
         }
 
-        public static int GetUserWeight()
+        public static float GetUserWeight()
         {
-            ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay("Enter your weight in meter:");
-            string weightInKG = Console.ReadLine();
-            int weight = int.Parse(weightInKG);
+            ConsoleDisplayLib.ConsoleDisplayType.ConsoleDisplay("Enter your weight in KG:");
+            float weight = float.Parse(Console.ReadLine());
             return weight;
         }
     }
