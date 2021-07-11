@@ -1,0 +1,6 @@
+C:\Users\navyashrees\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\CSharpPrograms.exe.config
+C:\Users\navyashrees\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\CSharpPrograms.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\CSharpPrograms.pdb
+C:\Users\navyashrees\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.pdb

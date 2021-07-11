@@ -1,0 +1,7 @@
+c:\users\navyashrees\source\repos\TataCarEngineProgram\TataCarEngineProgram\obj\Debug\TataCarEngineProgram.csprojResolveAssemblyReference.cache
+c:\users\navyashrees\source\repos\TataCarEngineProgram\TataCarEngineProgram\obj\Debug\TataCarEngineProgram.csproj.CoreCompileInputs.cache
+c:\users\navyashrees\source\repos\TataCarEngineProgram\TataCarEngineProgram\bin\Debug\TataCarEngineProgram.exe.config
+c:\users\navyashrees\source\repos\TataCarEngineProgram\TataCarEngineProgram\bin\Debug\TataCarEngineProgram.exe
+c:\users\navyashrees\source\repos\TataCarEngineProgram\TataCarEngineProgram\bin\Debug\TataCarEngineProgram.pdb
+c:\users\navyashrees\source\repos\TataCarEngineProgram\TataCarEngineProgram\obj\Debug\TataCarEngineProgram.exe
+c:\users\navyashrees\source\repos\TataCarEngineProgram\TataCarEngineProgram\obj\Debug\TataCarEngineProgram.pdb

@@ -1,0 +1,7 @@
+c:\users\navyashrees\source\repos\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe.config
+c:\users\navyashrees\source\repos\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe
+c:\users\navyashrees\source\repos\ReferenceType\ReferenceType\bin\Debug\ReferenceType.pdb
+c:\users\navyashrees\source\repos\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csprojResolveAssemblyReference.cache
+c:\users\navyashrees\source\repos\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+c:\users\navyashrees\source\repos\ReferenceType\ReferenceType\obj\Debug\ReferenceType.exe
+c:\users\navyashrees\source\repos\ReferenceType\ReferenceType\obj\Debug\ReferenceType.pdb

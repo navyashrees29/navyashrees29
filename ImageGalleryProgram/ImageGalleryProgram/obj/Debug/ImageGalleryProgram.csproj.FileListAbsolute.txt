@@ -1,0 +1,7 @@
+c:\users\navyashrees\source\repos\ImageGalleryProgram\ImageGalleryProgram\bin\Debug\ImageGalleryProgram.exe.config
+c:\users\navyashrees\source\repos\ImageGalleryProgram\ImageGalleryProgram\bin\Debug\ImageGalleryProgram.exe
+c:\users\navyashrees\source\repos\ImageGalleryProgram\ImageGalleryProgram\bin\Debug\ImageGalleryProgram.pdb
+c:\users\navyashrees\source\repos\ImageGalleryProgram\ImageGalleryProgram\obj\Debug\ImageGalleryProgram.csprojResolveAssemblyReference.cache
+c:\users\navyashrees\source\repos\ImageGalleryProgram\ImageGalleryProgram\obj\Debug\ImageGalleryProgram.csproj.CoreCompileInputs.cache
+c:\users\navyashrees\source\repos\ImageGalleryProgram\ImageGalleryProgram\obj\Debug\ImageGalleryProgram.exe
+c:\users\navyashrees\source\repos\ImageGalleryProgram\ImageGalleryProgram\obj\Debug\ImageGalleryProgram.pdb

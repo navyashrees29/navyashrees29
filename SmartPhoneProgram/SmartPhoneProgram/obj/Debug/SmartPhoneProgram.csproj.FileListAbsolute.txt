@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\SmartPhoneProgram\SmartPhoneProgram\bin\Debug\SmartPhoneProgram.exe.config
+C:\Users\navyashrees\source\repos\SmartPhoneProgram\SmartPhoneProgram\bin\Debug\SmartPhoneProgram.exe
+C:\Users\navyashrees\source\repos\SmartPhoneProgram\SmartPhoneProgram\bin\Debug\SmartPhoneProgram.pdb
+C:\Users\navyashrees\source\repos\SmartPhoneProgram\SmartPhoneProgram\obj\Debug\SmartPhoneProgram.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\SmartPhoneProgram\SmartPhoneProgram\obj\Debug\SmartPhoneProgram.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\SmartPhoneProgram\SmartPhoneProgram\obj\Debug\SmartPhoneProgram.exe
+C:\Users\navyashrees\source\repos\SmartPhoneProgram\SmartPhoneProgram\obj\Debug\SmartPhoneProgram.pdb

@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\navyashrees\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\navyashrees\source\repos\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\navyashrees\source\repos\Csharp\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\navyashrees\source\repos\Csharp\Csharp\obj\Debug\Csharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\CSharpPrograms\DelegateInvocationProgram\bin\Debug\DelegateInvocationProgram.exe.config
+C:\Users\navyashrees\source\repos\CSharpPrograms\DelegateInvocationProgram\bin\Debug\DelegateInvocationProgram.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\DelegateInvocationProgram\bin\Debug\DelegateInvocationProgram.pdb
+C:\Users\navyashrees\source\repos\CSharpPrograms\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\CSharpPrograms\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\CSharpPrograms\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.pdb

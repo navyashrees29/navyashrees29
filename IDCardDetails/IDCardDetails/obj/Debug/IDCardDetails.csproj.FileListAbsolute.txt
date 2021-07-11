@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\IDCardDetails\IDCardDetails\obj\Debug\IDCardDetails.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\IDCardDetails\IDCardDetails\obj\Debug\IDCardDetails.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\IDCardDetails\IDCardDetails\bin\Debug\IDCardDetails.exe.config
+C:\Users\navyashrees\source\repos\IDCardDetails\IDCardDetails\bin\Debug\IDCardDetails.exe
+C:\Users\navyashrees\source\repos\IDCardDetails\IDCardDetails\bin\Debug\IDCardDetails.pdb
+C:\Users\navyashrees\source\repos\IDCardDetails\IDCardDetails\obj\Debug\IDCardDetails.exe
+C:\Users\navyashrees\source\repos\IDCardDetails\IDCardDetails\obj\Debug\IDCardDetails.pdb

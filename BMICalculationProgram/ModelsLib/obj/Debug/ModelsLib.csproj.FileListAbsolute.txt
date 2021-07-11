@@ -1,0 +1,5 @@
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ModelsLib\bin\Debug\ModelsLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ModelsLib\bin\Debug\ModelsLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ModelsLib\obj\Debug\ModelsLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ModelsLib\obj\Debug\ModelsLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\ModelsLib\obj\Debug\ModelsLib.pdb

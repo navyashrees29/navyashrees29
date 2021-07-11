@@ -1,0 +1,8 @@
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\bin\Debug\PatientDataReaderLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\bin\Debug\PatientDataReaderLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\bin\Debug\ModelsLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\bin\Debug\ModelsLib.pdb
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\obj\Debug\PatientDataReaderLib.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\obj\Debug\PatientDataReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\obj\Debug\PatientDataReaderLib.dll
+C:\Users\navyashrees\source\repos\BMICalculationProgram\PatientDataReaderLib\obj\Debug\PatientDataReaderLib.pdb

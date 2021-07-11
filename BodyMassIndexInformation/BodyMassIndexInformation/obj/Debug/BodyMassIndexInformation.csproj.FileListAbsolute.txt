@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\BodyMassIndexInformation\BodyMassIndexInformation\bin\Debug\BodyMassIndexInformation.pdb
+C:\Users\navyashrees\source\repos\BodyMassIndexInformation\BodyMassIndexInformation\obj\Debug\BodyMassIndexInformation.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\BodyMassIndexInformation\BodyMassIndexInformation\obj\Debug\BodyMassIndexInformation.pdb
+C:\Users\navyashrees\source\repos\BodyMassIndexInformation\BodyMassIndexInformation\obj\Debug\BodyMassIndexInformation.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\BodyMassIndexInformation\BodyMassIndexInformation\bin\Debug\BodyMassIndexInformation.dll.config
+C:\Users\navyashrees\source\repos\BodyMassIndexInformation\BodyMassIndexInformation\bin\Debug\BodyMassIndexInformation.dll
+C:\Users\navyashrees\source\repos\BodyMassIndexInformation\BodyMassIndexInformation\obj\Debug\BodyMassIndexInformation.dll

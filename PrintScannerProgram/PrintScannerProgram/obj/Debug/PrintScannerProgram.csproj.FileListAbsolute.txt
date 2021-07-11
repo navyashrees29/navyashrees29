@@ -1,0 +1,6 @@
+C:\Users\navyashrees\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\PrintScannerProgram.exe.config
+C:\Users\navyashrees\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\PrintScannerProgram.exe
+C:\Users\navyashrees\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\PrintScannerProgram.pdb
+C:\Users\navyashrees\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\PrintScannerProgram.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\PrintScannerProgram.exe
+C:\Users\navyashrees\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\PrintScannerProgram.pdb
