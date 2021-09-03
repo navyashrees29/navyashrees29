@@ -1,0 +1,10 @@
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\bin\Debug\DTO.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\BusinessLayer\bin\Debug\DTO.pdb

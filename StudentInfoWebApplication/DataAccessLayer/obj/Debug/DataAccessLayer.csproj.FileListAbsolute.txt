@@ -1,0 +1,8 @@
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

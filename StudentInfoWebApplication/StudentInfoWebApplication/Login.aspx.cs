@@ -4,6 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using BusinessLayer;
+using DTO;
+using System.Data.SqlClient;
 
 namespace StudentInfoWebApplication
 {
@@ -14,20 +17,35 @@ namespace StudentInfoWebApplication
             
         }
 
-        protected void Button1_Click(object sender, EventArgs e)
+        protected void BtnLogin(object sender, EventArgs e)
         {
-        //    string uname = TextBoxUserName.Text,pwd = TextBoxPassword.Text;
-            if(TextBoxUserName.Text == "admin" && TextBoxPassword.Text == "123")
+            StudentBL objStudentBL = new StudentBL();
+            StudentDTO objStudentDTO = new StudentDTO();
+            string username = txtUserName.Text, password = txtPassword.Text;
+            objStudentDTO.UserName = username;
+            objStudentDTO.Password = password;
+            try
             {
-                Session["name"] = TextBoxUserName.Text;
-                Response.Redirect("Home.aspx");
+                SqlDataReader dr = objStudentBL.CheckUserBL(objStudentDTO);
+                if (dr.HasRows)
+                {
+                    Session["name"] = txtUserName.Text;
+                    Response.Redirect("Home.aspx");
+                }
+                else
+                {
+                    ScriptManager.RegisterStartupScript(this, this.GetType(), "script", "alert('Please enter correct user name and password');", true);
+                }
             }
-            else
+            catch(Exception ex)
             {
-                ScriptManager.RegisterStartupScript(this,this.GetType(),"script","alert('Please enter correct user name and password');",true);
+                Console.WriteLine(ex);
+            }
+            finally
+            {
+                objStudentDTO = null;
+                objStudentBL = null;
             }
         }
-
-        
     }
 }

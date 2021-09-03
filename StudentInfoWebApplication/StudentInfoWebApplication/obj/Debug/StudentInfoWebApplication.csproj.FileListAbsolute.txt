@@ -55,3 +55,9 @@ c:\users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplic
 c:\users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\obj\Debug\StudentInfoWebApplication.csproj.CoreCompileInputs.cache
 c:\users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\obj\Debug\StudentInfoWebApplication.dll
 c:\users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\obj\Debug\StudentInfoWebApplication.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\bin\DataAccessLayer.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\bin\DataAccessLayer.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\bin\BusinessLayer.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\bin\BusinessLayer.pdb
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\bin\DTO.dll
+C:\Users\navyashrees\source\repos\StudentInfoWebApplication\StudentInfoWebApplication\bin\DTO.pdb
