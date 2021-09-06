@@ -1,4 +1,4 @@
-# Data Bind Controls in ASP.NET
+# Data Binding in ASP.NET
 
 Data Binding is binding controls to data from databases. 
 
