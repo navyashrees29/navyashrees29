@@ -48,11 +48,15 @@ We can also apply restrictions on the value of the parameter by configuring rout
 
  For example, the following route applies a limitation on the id parameter that the id's value must be numeric.if you give non-numeric value for id parameter, then that request will be handled by another route or, if there are no matching routes, then `"The resource could not be found"` error will be thrown.
 
-routes.MapRoute(
+            routes.MapRoute(
                 name: "Student",
+                
                 url: "{controller}/{action}/{id}",
+                
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
+                
                 constraints: new { id = @"\d+" }
+                
             );
 
 
