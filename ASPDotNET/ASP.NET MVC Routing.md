@@ -64,6 +64,7 @@ routes.MapRoute(
 | ViewData is derived from the ViewDataDictionary class and is basically a Dictionary object i.e. Keys and Values where Keys are String while Values will be objects. | ViewBag is a Wrapper built around ViewData.                  |
 | Data is stored as Object in ViewData.                        | ViewBag is a dynamic property and it makes use of the C# 4.0 dynamic features. |
 | While retrieving, the data it needs to be Type Casted to its original type as the data is stored as objects and it also requires NULL checks while retrieving. | While retrieving, there is no need for Type Casting data.    |
+|ViewData is Faster than ViewBag |ViewBag is slower than ViewData	|
 
 
 
