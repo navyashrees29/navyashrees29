@@ -16,7 +16,7 @@ It includes new HttpClient to communicate with Web API server. HttpClient can be
 
 
 
-# HTML Helpers
+# HTML TagHelpers
 
 - HTML Helpers are methods that return a string.
 
