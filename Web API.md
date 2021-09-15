@@ -30,16 +30,3 @@ It includes new HttpClient to communicate with Web API server. HttpClient can be
 
 - We can create custom HTML helpers.
 
-  
-
-HTML Helpers are categorized into three types,
-
-1. Inline HTML helpers
-
-2. Built-in HTML helpers
-
-   1. Standard HTML Helpers
-   2. Strongly Typed HTML helpers
-   3. Templated HTML helpers
-
-3. Custom HTML helpers
