@@ -38,8 +38,8 @@ HTML Helpers are categorized into three types,
 
 2. Built-in HTML helpers
 
-3. 1. Standard HTML Helpers
+   1. Standard HTML Helpers
    2. Strongly Typed HTML helpers
    3. Templated HTML helpers
 
-4. Custom HTML helpers
+3. Custom HTML helpers
